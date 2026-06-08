@@ -1,6 +1,8 @@
 /**
  * the formula we want to use
  * maxWater = (maxRight - maxLeft) * currentHeight
+ * time complexity = O(n ^ 2)
+ * space complexity = O(1)
  */
 
 // const height = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1];
